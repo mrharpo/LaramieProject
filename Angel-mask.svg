@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2000mm"
+   height="1000mm"
+   viewBox="0 0 2000 1000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="Angel-mask.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#3c3c3c"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#0c0c0c"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.11436325"
+     inkscape:cx="3781.8093"
+     inkscape:cy="3956.6906"
+     inkscape:window-width="2560"
+     inkscape:window-height="1395"
+     inkscape:window-x="1920"
+     inkscape:window-y="459"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <sodipodi:guide
+       position="1001.7605,1212.8452"
+       orientation="1,0"
+       id="guide4100"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="311.1704,499.11976"
+       orientation="0,-1"
+       id="guide4102"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="248.65923,618.83157"
+       orientation="1,0"
+       id="guide5768"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1750.4301,666.27314"
+       orientation="1,0"
+       id="guide5770"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1000.6037,148.61928"
+       orientation="0,-1"
+       id="guide5772"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <circle
+       style="fill:#000000;stroke-width:0.264583"
+       id="path2240"
+       cx="507.24246"
+       cy="224.99124"
+       r="134.76338" />
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 721.82277,49.740991 C 935.10722,529.64397 1140.0863,695.94474 780.81791,976.31156 801.63973,667.45474 637.44135,828.62059 626.96784,844.4401 c -23.63677,35.70175 146.22989,253.6632 8.0974,252.1753 C 576.24045,1095.9817 558.71859,887.24051 497.40992,906.90553 436.10125,926.57059 365.97365,1099.6106 308.85687,1101.2424 268.37,1102.3992 335.77318,877.39515 256.80233,751.89873 220.80996,694.70151 157.63079,981.54838 129.55794,997.13338 -72.029998,949.09618 -134.10461,229.54216 119.14703,30.075948 c 64.17624,-50.54653 206.96026,-66.07865 237.62121,59.983575 2.01078,8.267281 -119.42799,266.901987 -73.36026,282.419537 109.89289,37.01655 212.84518,-77.50341 212.84518,-77.50341 0,0 0,119.14703 119.14703,117.99027 C 734.54722,411.80914 721.82277,49.740991 721.82277,49.740991 Z"
+       id="path2406"
+       sodipodi:nodetypes="ccssssscasscsc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m 1005.2288,322.84438 c 0,0 496.337,-311.043583 497.9713,-320.4245601 278.1018,40.3600401 383.9372,825.0034101 -4.2139,987.0613201 -4.4664,-1.29262 -347.8514,-138.45925 -347.8514,-138.45925 -3.0041,-0.84504 57.4953,139.10394 50.4812,138.76292 -43.4754,2.1497 -336.52083,2.20083 -399.95643,2.66594 -8.96823,-3.73917 47.97293,-142.31483 47.97293,-142.31483 -5.27921,8.83868 -336.57748,135.9163 -346.21655,142.67515 C 178.77915,845.80799 158.71186,158.6373 501.11652,6.9646801 509.93295,8.7052761 1005.2288,322.84438 1005.2288,322.84438 Z"
+       id="path4098"
+       sodipodi:nodetypes="cccscccccc" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:0.238698"
+       id="path4104"
+       cx="1019.8527"
+       cy="170.8316"
+       r="160.19232" />
+  </g>
+</svg>
